@@ -7,4 +7,8 @@ Architecture:
 ## Qualitative results:
 
 ### Predicting current time frame:
+Scene A:
 ![Scene A](imgs/qualitative_a.png)
+
+Scene B: 
+![Scene B](imgs/qualitative_b.png)
