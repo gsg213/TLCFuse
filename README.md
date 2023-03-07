@@ -12,3 +12,6 @@ Scene A:
 
 Scene B: 
 ![Scene B](imgs/qualitative_b.png)
+
+### Predicting future frames:
+![cams](imgs/cams_forecasting.gif) ![prediction](imgs/qualitative_forecasting.gif)
