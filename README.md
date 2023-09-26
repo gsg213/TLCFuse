@@ -22,6 +22,9 @@ Sample D:
 Sample E:
 ![Sample E](imgs/sample_e.png)
 
+### PLanning
+[![Planning]](https://youtu.be/-tTrlZeFsvs)
 
 ### Predicting future frames:
 ![cams](imgs/cams_forecasting.gif) ![prediction](imgs/qualitative_forecasting.gif)
+
